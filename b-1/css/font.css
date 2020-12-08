@@ -1,0 +1,10 @@
+@charset "utf-8";
+@font-face {
+	font-family: NotoR;
+	src:url(font/NotoSerifKR-Regular.otf)
+}
+
+@font-face {
+	font-family: CuteR;
+	src:url(font/CuteFont-Regular.ttf)
+}
