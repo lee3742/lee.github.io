@@ -1,0 +1,13 @@
+@charset "utf-8";
+@font-face {
+	font-family: NotoR;
+	src: url(font/NotoSansKR-Regular.otf)
+}
+@font-face {
+	font-family: RaleM;
+	src: url(font/Raleway-Medium.ttf)
+}
+@font-face {
+	font-family: RaleR;
+	src: url(font/Raleway-Regular.ttf)
+}
